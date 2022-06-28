@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I excell at _logical thinking_ as well as _problem solving_. I am fluent in __java__ as well as __python__.
