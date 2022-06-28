@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Robotics
+* Video Games
+* Flight Simulators
+* Rollercoasters
